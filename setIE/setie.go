@@ -3,7 +3,6 @@ package setIE
 import (
 	"golang.org/x/sys/windows/registry"
 	"log"
-	"os/exec"
 )
 
 func GetProxy() string {
